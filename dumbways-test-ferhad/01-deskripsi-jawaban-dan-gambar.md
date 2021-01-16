@@ -1,0 +1,3 @@
+Definisi DevOps menurut saya adalah  serangkaian pekerjaan yang mampu melakukan otomatisasi proses antara Developer team dan Operation Team agar mereka dapat melakukan proses build, test dan release perangkat lunak lebih cepat dan lebih handal.
+
+DevOps juga merupakan salah satu point penting dalam melakukan update produk yang kecil dan cepat. Dalam industri IT, ini bisa disebut dengan minor / patch update. Dengan melakukan update produk yang kecil, organisasi/perusahaan dapat melakukan inovasi lebih cepat bagi produknya, juga dapat melakukan rollback dengan mudah jika ditemukan bug yang tidak ter-cover oleh automated testing maupun tim QA. Dengan praktek ini, Organisasi/Perusahan dapat me-monitor produk dan mendapatkan data yang paling berharga yaitu data pengguna.

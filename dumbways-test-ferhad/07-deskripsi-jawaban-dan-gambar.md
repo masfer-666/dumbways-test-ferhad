@@ -1,0 +1,1 @@
+Keypair merupakan sebuah metode keamanan bagi administrator yang dapat dipercaya oleh server. keypair itu sendiri merupakan autentifikasi dari public key dan private key . yang sudah di atur untuk dapat melakukan handshaking ke server tanpa autentifikasi password.
